@@ -1,0 +1,55 @@
+.jumbotron {
+	border:5px solid white;
+	/*text-align: center;*/
+	background:rgba(128,128,128,0.20); /*use for opacity */
+	margin-top: 50px;
+}
+
+#me {
+		border: 5px solid white;
+}
+
+
+#portfolio{
+	height: 100vh;
+
+}
+
+#skills {
+	height: 100vh;
+	
+}
+
+
+.fadeInleft {
+	animation-delay: 2s;
+}
+
+#home{
+	height:100vh;
+}
+
+div h1 {
+	color: #ffffff;
+}
+
+
+body {
+	background-image: url(../images/blue.jpg);
+	background-size: cover;
+}
+
+
+
+
+
+
+/*tablet*/
+@media only screen and (min-width: 401px) and (max-width: 960px){
+
+}
+
+/*mobile*/
+@media only screen and (max-width: 400px){
+
+}
